@@ -1,0 +1,22 @@
+.transactionHistory {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
+
+th {
+  width: 300px;
+  height: 30px;
+  background-color: rgb(231, 98, 231);
+  color: white;
+  font-weight: 700;
+}
+
+td {
+  text-align: center;
+  height: 30px;
+  color: dimgrey;
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
